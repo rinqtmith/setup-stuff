@@ -78,4 +78,5 @@ tar xf lazygit.tar.gz lazygit
 sudo install lazygit /usr/local/bin
 sudo apt-get install ripgrep
 sudo apt install fd-find
+sudo apt install tree
 ```
